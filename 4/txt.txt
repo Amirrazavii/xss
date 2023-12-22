@@ -1,0 +1,1 @@
+http://localhost:3000/?input=amir%3Cscript%3Ealert(%22XSS%20Attack!%22);%3C/script%3E
